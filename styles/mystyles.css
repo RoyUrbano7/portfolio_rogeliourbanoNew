@@ -1,0 +1,28 @@
+body {
+    font-size: 1em;
+    font-weight: normal;
+    font-family: Arial, Sans-serif;
+    color: #000000;
+    text-align: left;
+    max-width: 75%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+h1 {
+    font-size 1.8em;
+    font-weight: bold;
+    color: #0000ff;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h2 {}
+
+a {}
+
+li {}
+
+nav {}
