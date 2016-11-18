@@ -2,26 +2,26 @@ body {
     font-size: 1em;
     font-weight: normal;
     font-family: Arial, Sans-serif;
-    color: #000000;
+    color: crimson;
     text-align: left;
     max-width: 75%;
     margin: 0 auto;
-    background-color: gold;
+    background-color: black;
 }
 
 h1 {
     font-size 1.8em;
     font-weight: bold;
-    color: #0000ff;
+    color: gold;
     text-align: center;
     padding: 20px;
-    border: 2px solid black;
+    border: 2px solid gold;
     border-radius: 10px;
 }
 
 h2 {
     font-family: "Comic Sans MS";
-  font-size: 150%
+    font-size: 150%
 }
 
 a {
@@ -29,6 +29,7 @@ a {
   font-size: 120%;
   font-weight: bold;
   text-shadow: 1px 1px black;
+  color: gold;
 }
 
 li {
@@ -37,5 +38,5 @@ li {
 }
 
 nav {
-
+  font-family: "Comic Sans MS";
 }
